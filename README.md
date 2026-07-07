@@ -48,6 +48,15 @@ An 8-key macropad with OLED, rotary encoder, and RGB LEDs. Powered by a Seeed XI
 ## Firmware
 KMK (CircuitPython). To install, copy `main.py` and the KMK library folder to the XIAO RP2040 after flashing CircuitPython.
 
+## Schematic
+![image](https://cdn.hackclub.com/019f3ab2-a0f5-7faa-b418-1ba5169ad199/paste-1783396212742.png)
+
+## PCB
+![image](https://cdn.hackclub.com/019f3ab3-8d1d-7d5c-954c-88d773026075/paste-1783396273165.png)
+
+## Case
+![image](https://cdn.hackclub.com/019f3ab4-19a8-7bad-ab6e-429b9e7d94ca/paste-1783396308895.png)
+
 ## Photos
 [Add photos after assembly]
 
